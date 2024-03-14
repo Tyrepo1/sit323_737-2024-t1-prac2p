@@ -1,0 +1,27 @@
+# dependencies
+/node_modules
+
+# development tools
+/coverage
+/dist
+/build
+/logs
+
+# environment variables
+.env
+
+# editor files
+.vscode
+.idea
+*.sublime-workspace
+*.project
+*.nwb
+
+# operating system files
+.DS_Store
+Thumbs.db
+
+# temporary files
+.temp
+*.tmp
+*.log
